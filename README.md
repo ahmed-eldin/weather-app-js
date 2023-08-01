@@ -1,5 +1,6 @@
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="1243" alt="Screenshot 2023-08-01 at 11 33 11 AM" src="https://github.com/ahmed-eldin/weather-app-js/assets/111728755/0a9ce738-99e3-4bd1-bb6a-ec185501adf4">
+
 
 
 # JavaScript Weather App
